@@ -22,6 +22,6 @@ swarm and evolutionary approaches that were used to solve problem 1. They allow 
 This algorithm solves task2. Approaches to optimization of the upper and lower levels of the considered problem are different. At the upper level, it is proposed to find the optimal value of the function using swarm intelligence with selected adaptations, at the lower level, optimization is implemented by the LeBlanc algorithm.
 
 ## data.xlxs
-The Sioux-Falls network was chosen to test the algorithm BPSOQ. It can be represented as a directed weighted graph consisting of 24 nodes and 74 arcs. Visualization of the test network is shown in below
+The Sioux-Falls network was chosen to test the algorithm BPSOQ. It can be represented as a directed weighted graph consisting of 24 nodes and 74 arcs. Visualization of the test network is shown in below.
 
 ![image](https://user-images.githubusercontent.com/101735194/170236165-47bbbca0-c078-4d64-89c5-03bc4f019aad.png)
