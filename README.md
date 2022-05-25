@@ -6,11 +6,14 @@ Bilevel optimization problems are a class of complex optimization problems in wh
 
 Approbation of swarm intelligence tools for solving bilevel optimization problems on test examples was carried out. The obtained results are compared with evolutionary procedures for solving bilevel optimization problems on test examples (BLEAQ and BPSOQ algorithms). The most efficient algorithm is adapted for solving problems of bilevel optimization on transport networks (PSODP–LeBlanc algorithm with dynamic inertia coefficient). Efficient procedures for solving the problem of transport network topology optimization using the constructed heuristics are implemented.
 
+## PSO interia factor.ipynb
+is devoted to the analysis of parameter changes in the calculation of the particle velocity vector for various test functions.
+
+## PSO for transport routing problem.ipynb
+is devoted to the implementation of the traveling salesman problem solution by the PSO-algorithm.
+
+## task1.pdf and task1.pdf
+describe the mathematical formulation of the problemon which the implemented algorithms were tested on.
+
 ## data.xlxs
 ![image](https://user-images.githubusercontent.com/101735194/170236165-47bbbca0-c078-4d64-89c5-03bc4f019aad.png)
-
-
-## task1.pdf
-
-## task2.pdf
-
